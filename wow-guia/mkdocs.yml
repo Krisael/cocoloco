@@ -1,0 +1,11 @@
+site_name: Coco Loco - Guias
+pages: 
+  - Home: index.md
+  - Normal / Heróico:
+    - Antorus: guia/antorus/index.md
+    - ToS:
+      - Avatar Caído: guia/tos/avatar_caido.md
+      - Kil'jaeden: guia/tos/kiljaeden.md
+extra_javascript: [//static-azeroth.cursecdn.com/current/js/syndication/tt.js]
+theme: 
+  name: 'material'
