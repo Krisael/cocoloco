@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Guias Coco Loco
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Para mais informações sobre a guilda, acesse a [página](https://cocoloco.enjin.com/).
 
-## Commands
+## Links úteis:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [Warcraftlogs](https://www.warcraftlogs.com/guilds/40868)
+* [WoWProgress](https://www.wowprogress.com/guild/us/azralon/Coco+Loco)
+* [Raider.io](https://raider.io/guilds/us/azralon/Coco%20Loco)
