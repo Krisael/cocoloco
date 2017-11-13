@@ -24,9 +24,9 @@ Um grupo será setado para realizar o soak nos [Armagedom](http://pt.wowhead.com
 
 #### DPS
 
-- Posicionem-se atrás do boss
-- Durante [Armagedom](http://pt.wowhead.com/spell=240910), todos devem participar do soak
-- Se já possuir o debuff de [chuva](http://pt.wowhead.com/spell=234295), não participe do próximo [Armagedom](http://pt.wowhead.com/spell=240910)
+- Posicionem-se atrás do boss para evitar levar dano da [Garravis](http://pt.wowhead.com/spell=239932)
+- Durante [Armagedom](http://pt.wowhead.com/spell=240910), todos devem participar do soak (Respeitem a ordem de chegada!)
+- Se já possuir o debuff de [chuva](http://pt.wowhead.com/spell=234295), deve aguardar o termino para que pegue um novo soak
 - Posicionem no lado *esquerdo do boss* quando marcados por [reflexao](http://pt.wowhead.com/spell=236710) e matem-os o mais rápido possível
 
 #### Healers
@@ -40,13 +40,11 @@ Um grupo será setado para realizar o soak nos [Armagedom](http://pt.wowhead.com
 
 - Soak nos [Armagedom](http://pt.wowhead.com/spell=240910) maiores
 
-#### DPS
+#### DPS / Healer
 
 - Continuem com o soak do [Armagedom](http://pt.wowhead.com/spell=240910) como na Primeira fase
 - **Quem deu soak**, posicione no meio da sala para dividir o dano da [Chama](http://pt.wowhead.com/spell=238505) (Laser)
 - **Liberem** espaço no meio quando marcados pelo [bambolê](http://pt.wowhead.com/spell=238429) (Bambolê)
-
-#### Healer
 
 - **Quem deu soak**, posicione no meio da sala para dividir o dano da [Chama](http://pt.wowhead.com/spell=238505a)
 
@@ -70,7 +68,11 @@ Repete mesma estratégia da Primeira fase
 
 #### Todos
 
-Nessa fase, todos devem estar atentos aos obeliscos que irão surgir e o devido posicionamento, como mostra nas imagens a seguir:
+Esta fase é crucial que todas as mecânicas sejam feitas, pois qualquer erro pode ocasionar uma morte e arriscar um wipe da raid.
+
+Durante a [Darkness](http://pt.wowhead.com/spell=239216), o boss fica posicionado no meio da sala e TODOS devem entrar no [rift](http://pt.wowhead.com/spell=239155) quando estiver faltando **3 a 2 segundos** para o fim do cast, previnindo assim, o dano da [Darkness](http://pt.wowhead.com/spell=239216).
+
+Ainda nessa fase, todos devem estar atentos aos obeliscos que irão surgir e ficar devidamente posicionado, como mostra nas imagens a seguir:
 
 ### Posicionamento
 
