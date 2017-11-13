@@ -2,23 +2,18 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Guias Coco Loco\n\n\nPara mais informa\u00e7\u00f5es sobre a guilda, acesse a \np\u00e1gina\n.\n\n\nLinks \u00fateis:\n\n\n\n\n(Warcraftlogs)[https://www.warcraftlogs.com/guilds/40868]\n\n\n(WoWProgress)[https://www.wowprogress.com/guild/us/azralon/Coco+Loco]\n\n\n(Raider.io)[https://raider.io/guilds/us/azralon/Coco%20Loco]",
             "title": "Home"
         },
         {
-            "location": "/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/#guias-coco-loco",
+            "text": "Para mais informa\u00e7\u00f5es sobre a guilda, acesse a  p\u00e1gina .",
+            "title": "Guias Coco Loco"
         },
         {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/#links-uteis",
+            "text": "(Warcraftlogs)[https://www.warcraftlogs.com/guilds/40868]  (WoWProgress)[https://www.wowprogress.com/guild/us/azralon/Coco+Loco]  (Raider.io)[https://raider.io/guilds/us/azralon/Coco%20Loco]",
+            "title": "Links \u00fateis:"
         },
         {
             "location": "/guia/antorus/",
