@@ -1,0 +1,84 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/guia/antorus/",
+            "text": "",
+            "title": "Antorus"
+        },
+        {
+            "location": "/guia/tos/avatar_caido/",
+            "text": "",
+            "title": "Avatar Ca\u00eddo"
+        },
+        {
+            "location": "/guia/tos/kiljaeden/",
+            "text": "Kil'jaeden Normal / Her\u00f3ico\n\n\nVis\u00e3o Geral\n\n\nA luta possui 3 fases e duas fases de transi\u00e7\u00e3o. Em que se resumem \u00e0:\n\n\n\n\nPrimeira fase (100%-80%)\n\n\n80%: Primeira transi\u00e7\u00e3o\n\n\nSegunda fase (80%-40%)\n\n\n40%: Segunda transi\u00e7\u00e3o\n\n\nTerceira fase (40%-0%)\n\n\n\n\nPrimeira fase\n\n\nTanks\n\n\n\n\nPosicionem-se em lados opostos\n\n\nPosicionem o Boss virado de costas para o grupo\n\n\nTroquem de taunt com 5 stacks de \nGarravis\n\n\nUtilizem CD de mitiga\u00e7\u00e3o de acordo com sua classe para cada stack de \nGarravis\n\n\n\n\nDPS\n\n\n\n\nPosicionem-se atr\u00e1s do boss\n\n\nDurante \nArmagedom\n, todos devem participar do soak\n\n\nSe j\u00e1 possuir o debuff de \nchuva\n, n\u00e3o participe do pr\u00f3ximo \nArmagedom\n\n\nPosicionem no lado \nesquerdo do boss\n quando marcados por \nreflexao\n e matem-os o mais r\u00e1pido poss\u00edvel\n\n\n\n\nHealers\n\n\n\n\nUtilize CD de cura caso a \nchama reflex\u00e3o\n esteja sendo um problema\n\n\n\n\nPrimeira transi\u00e7\u00e3o\n\n\nTanks\n\n\n\n\nSoak em \n\n\n\n\nDPS\n\n\n\n\nContinuem com o soak do \nArmagedom\n como na Primeira fase\n\n\nQuem deu soak, posicione no meio da sala para dividir o dano da \nChama",
+            "title": "Kil'jaeden"
+        },
+        {
+            "location": "/guia/tos/kiljaeden/#kiljaeden-normal-heroico",
+            "text": "",
+            "title": "Kil'jaeden Normal / Her\u00f3ico"
+        },
+        {
+            "location": "/guia/tos/kiljaeden/#visao-geral",
+            "text": "A luta possui 3 fases e duas fases de transi\u00e7\u00e3o. Em que se resumem \u00e0:   Primeira fase (100%-80%)  80%: Primeira transi\u00e7\u00e3o  Segunda fase (80%-40%)  40%: Segunda transi\u00e7\u00e3o  Terceira fase (40%-0%)",
+            "title": "Vis\u00e3o Geral"
+        },
+        {
+            "location": "/guia/tos/kiljaeden/#primeira-fase",
+            "text": "",
+            "title": "Primeira fase"
+        },
+        {
+            "location": "/guia/tos/kiljaeden/#tanks",
+            "text": "Posicionem-se em lados opostos  Posicionem o Boss virado de costas para o grupo  Troquem de taunt com 5 stacks de  Garravis  Utilizem CD de mitiga\u00e7\u00e3o de acordo com sua classe para cada stack de  Garravis",
+            "title": "Tanks"
+        },
+        {
+            "location": "/guia/tos/kiljaeden/#dps",
+            "text": "Posicionem-se atr\u00e1s do boss  Durante  Armagedom , todos devem participar do soak  Se j\u00e1 possuir o debuff de  chuva , n\u00e3o participe do pr\u00f3ximo  Armagedom  Posicionem no lado  esquerdo do boss  quando marcados por  reflexao  e matem-os o mais r\u00e1pido poss\u00edvel",
+            "title": "DPS"
+        },
+        {
+            "location": "/guia/tos/kiljaeden/#healers",
+            "text": "Utilize CD de cura caso a  chama reflex\u00e3o  esteja sendo um problema",
+            "title": "Healers"
+        },
+        {
+            "location": "/guia/tos/kiljaeden/#primeira-transicao",
+            "text": "",
+            "title": "Primeira transi\u00e7\u00e3o"
+        },
+        {
+            "location": "/guia/tos/kiljaeden/#tanks_1",
+            "text": "Soak em",
+            "title": "Tanks"
+        },
+        {
+            "location": "/guia/tos/kiljaeden/#dps_1",
+            "text": "Continuem com o soak do  Armagedom  como na Primeira fase  Quem deu soak, posicione no meio da sala para dividir o dano da  Chama",
+            "title": "DPS"
+        }
+    ]
+}
