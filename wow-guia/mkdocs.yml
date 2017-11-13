@@ -6,6 +6,8 @@ pages:
     - ToS:
       - Avatar Caído: guia/tos/avatar_caido.md
       - Kil'jaeden: guia/tos/kiljaeden.md
-extra_javascript: [//static-azeroth.cursecdn.com/current/js/syndication/tt.js]
+extra_javascript: 
+  - //wow.zamimg.com/widgets/power.js
+  - js/wowhead.js
 theme: 
   name: 'material'

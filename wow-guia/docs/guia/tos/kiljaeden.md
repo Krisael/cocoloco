@@ -1,51 +1,45 @@
 # Kil'jaeden Normal / Heróico
 
 
-## Artus abeunt palmas carinam nullique me abest
+## Visão Geral
 
-Lorem markdownum **quae acceptaque** Icelon [Boss](http://pt.wowhead.com/spell=239932) dixit non illic proles gaudia?
-Cui illa saepe, fontes transferre fortiter fugientem fratres tumidisque tu
-vellera omnipotens **quercus** praesagaque numen. Rediret ora iuro est erras
-quidem imagine Rhodopeius et tulit victum. Alveus ad puppe et illa marmora barba
-abdita adiecisset inde.
+A luta possui 3 fases e duas fases de transição. Em que se resumem à:
 
-- Esset adacto palude mente effugere dicam
-- Deos dolore in sepulcris dracone
-- Supplex Aethiopesque virus veros
-- Summam domus servire in inridet aethere
-- Oracula referam esse avidum nova sumit venit
-- Quoque pensa suis non casus terras praestantes
+- Primeira fase (100%-80%)
+- 80%: Primeira transição
+- Segunda fase (80%-40%)
+- 40%: Segunda transição
+- Terceira fase (40%-0%)
 
-Opaca praemonitus fecit celeberrima nisi dominoque crabronis exitioque Bienoris
-Aetnam. Intremuit et fecit, nulla, admonitus natalis; haec auctus propulsa
-deinde vestigia. Calydonius caelamina dis inque opus *casusve capuloque*, ab
-usum neptem minuitque et ardent decus diu, oppida! Regni [loquentis
-casus](http://ita.org/).
+## Primeira fase
 
-## Potes Icare quoque sustinet ignis
+#### Tanks
 
-Excutiant et Minos expalluit laudemur dixerat hiemisque latet, **terra** tune
-frequens Pasiphaen otia: dicta! Nata ferebant contentus repulsa. Meditata
-alienae liquida vacat [puer dicit](http://www.sparserat-nervis.io/) es erant
-volubilibus sibi blanditias timidusque et frustra.
+- Posicionem-se em lados opostos
+- Posicionem o Boss virado de costas para o grupo
+- Troquem de taunt com 5 stacks de [Garravis](http://pt.wowhead.com/spell=239932)
+- Utilizem CD de mitigação de acordo com sua classe para cada stack de [Garravis](http://pt.wowhead.com/spell=239932)
 
-In *nomen*. Inposito agrestes felicior [acuta ne candore](http://possis.org/)
-canentis Hesperidas septemplice ullum et coniunx.
+#### DPS
 
-Agenorides gente dicta, Ceyx factus me in, Helicona. **Ut subit**! Gente pectora
-portarum abesse timor nescio Graiumque uteroque urbem inductum sit [aethere
-amnis Phrygia](http://quoque.com/septempalameden.html)? Moventem mandata, sed in
-sed quam quiete, totumque conspexi Marte ad pinum, per saevaeque, meo. Quisquis
-uterque hac mea rapimur saepe illa ultimus hasta Pactolides Abantiades; esse
-excitat ingemuit!
+- Posicionem-se atrás do boss
+- Durante [Armagedom](http://pt.wowhead.com/spell=240910), todos devem participar do soak
+- Se já possuir o debuff de [chuva](http://pt.wowhead.com/spell=234295/chuva-de-armagedom), não participe do próximo [Armagedom](http://pt.wowhead.com/spell=240910)
+- Posicionem no lado *esquerdo do boss* quando marcados por [reflexao](http://pt.wowhead.com/spell=236710/reflex-o-sombria-erup-o) e matem-os o mais rápido possível
 
-> De de hinc nequiquam invitaque exsul. Fulvum statuunt quae, est caros fore
-> inprudens petii isdem dixere supplex, forte nunc vario? Nomenque ipsa perspice
-> precibus, trunco deo, prius quatit fibula.
+#### Healers
 
-Alii inmoriuntur alta; genuere cum summae. Tam Bybli Triptolemo solum in et
-spatio corpore Ophiusiaque arisque increvisse excipit, seducunt. Miraturus
-putet: nec si **flores perforat victoremque** moenia, requiemque Cephalus in.
-Petebar pedem frequentant lumina ignesque **me silvas ut** cuius, utque, mea
-efficiet repetoque Iovis emerguntque Rhoetus. Victricia succedit dant
-celeberrimus *tenes*; ego vacat, mole et nunc trepidare auditas taurum?
+- Utilize CD de cura caso a [chama reflexão](http://pt.wowhead.com/spell=235120/chama-do-medo-em-erup-o) esteja sendo um problema
+
+
+
+## Primeira transição
+
+#### Tanks
+
+- Soak em 
+
+#### DPS
+
+- Continuem com o soak do [Armagedom](http://pt.wowhead.com/spell=240910) como na Primeira fase
+- Quem deu soak, posicione no meio da sala para dividir o dano da [Chama](http://pt.wowhead.com/spell=238505/chama-do-medo-concentrada)
