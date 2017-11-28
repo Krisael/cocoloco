@@ -212,18 +212,48 @@
         },
         {
             "location": "/guia/antorus/kasael/",
-            "text": "Resumo\n\n\n\n\nA luta possui um boss e 3 miniboss que ser\u00e3o ativados com o decorrer da luta. Os portais ser\u00e3o ativados de acordo com a vida do boss.\n\n\nO lust \u00e9 usado na ultima fase\n\n\n\n\nPrimeira Fase\n\n\n!!!! IMAGEM POSICIONAMENTO TANK",
+            "text": "Resumo\n\n\n\n\nA luta possui um boss e 3 minibosses que ser\u00e3o ativados com o decorrer da luta. Os portais ser\u00e3o ativados de acordo com a vida do boss.\n\n\n90% VERMELHO\n\n\n60% VERDE\n\n\n30% ROXO\n\n\n\n\n\n\nO lust \u00e9 usado ap\u00f3s o \u00faltimo portal\n\n\n\n\nBoss\n\n\nTanks\n\n\n\n\nTrocar com 3 ou 4 stacks de \n para evitar que o dano na raid seja muito alto\n\n\nPosicionar o boss de frente para a parede (tank de costas para parede)\n    \n\n\n\n\nTodos\n\n\n\n\nStun\n nos adds que ser\u00e3o sumonados\n\n\nMover com o grupo durante \n\n    \n\n\n\n\nMover para \nproxima posi\u00e7\u00e3o de tank\n durante \n (apenas melee e tank)\n\n\n\n\n\n\n\n\nPortais\n\n\nEnviar grupos com pelo menos 1 Tank e 1 Healer, a quantidade de DPS depende da composi\u00e7\u00e3o.\n- O \nobjetivo\n \u00e9 matar o miniboss o mais r\u00e1pido poss\u00edvel antes que o tank com o boss ganhe muita stack de \n.\n\n\nVermelho (90%)\n\n\n\n\nInterromper \n e \n.\n\n\nTankar o miniboss longe das orbs\n\n\nDesviar dos circulos que ir\u00e3o aparecer por causa da \n\n\n\n\nVerde (60%)\n\n\nMesmo grupo do Vermelho + um healer, se necess\u00e1rio.\n\n\n\n\nInterromper \n\n\n: Manter a vida do grupo \nm\u00e9dia\n, pois quanto mais vida, maior o dano recebido.\n\n\nPrioridade\n tirar o player marcado pela \n\n\nHealers precisam manter a vida do player em torno de 2.4m e 3m\n\n\n\n\n\n\nO posicionamento \u00e9 junto ao minibosss\n\n\nHealers com a \nHasabel\n devem utilizar CD, pois o dano ser\u00e1 maior por conta do \n.\n\n\n\n\nRoxo (30%)\n\n\nMesmo grupo do \nVerde\n\n\n\n\n\n\nPrecisa que a \nOrb do portal VERMELHO\n seja levada para o portal \nROXO\n\n\n\n\nPara isso, um player precisa entrar no portal \nVERMELHO\n, ir at\u00e9 uma orb e levar a orb em \n10 segundos\n para o portal \nROXO\n.\n\n\nDEVE ESPERAR O TEMPO DO DEBUFF \nACABAR\n!\n\n\n\n\n\n\n\n\n\n: Healers d\u00e3o dispell apenas quando n\u00e3o precisar de mana.\n\n\n\n\n ir\u00e3o aparecer na Hasael e precisar\u00e3o matar junto com os imps (continua com a rota\u00e7\u00e3o de stun em area).",
             "title": "Portal Keeper Kasael"
         },
         {
             "location": "/guia/antorus/kasael/#resumo",
-            "text": "A luta possui um boss e 3 miniboss que ser\u00e3o ativados com o decorrer da luta. Os portais ser\u00e3o ativados de acordo com a vida do boss.  O lust \u00e9 usado na ultima fase",
+            "text": "A luta possui um boss e 3 minibosses que ser\u00e3o ativados com o decorrer da luta. Os portais ser\u00e3o ativados de acordo com a vida do boss.  90% VERMELHO  60% VERDE  30% ROXO    O lust \u00e9 usado ap\u00f3s o \u00faltimo portal",
             "title": "Resumo"
         },
         {
-            "location": "/guia/antorus/kasael/#primeira-fase",
-            "text": "!!!! IMAGEM POSICIONAMENTO TANK",
-            "title": "Primeira Fase"
+            "location": "/guia/antorus/kasael/#boss",
+            "text": "",
+            "title": "Boss"
+        },
+        {
+            "location": "/guia/antorus/kasael/#tanks",
+            "text": "Trocar com 3 ou 4 stacks de   para evitar que o dano na raid seja muito alto  Posicionar o boss de frente para a parede (tank de costas para parede)",
+            "title": "Tanks"
+        },
+        {
+            "location": "/guia/antorus/kasael/#todos",
+            "text": "Stun  nos adds que ser\u00e3o sumonados  Mover com o grupo durante  \n       Mover para  proxima posi\u00e7\u00e3o de tank  durante   (apenas melee e tank)",
+            "title": "Todos"
+        },
+        {
+            "location": "/guia/antorus/kasael/#portais",
+            "text": "Enviar grupos com pelo menos 1 Tank e 1 Healer, a quantidade de DPS depende da composi\u00e7\u00e3o.\n- O  objetivo  \u00e9 matar o miniboss o mais r\u00e1pido poss\u00edvel antes que o tank com o boss ganhe muita stack de  .",
+            "title": "Portais"
+        },
+        {
+            "location": "/guia/antorus/kasael/#vermelho-90",
+            "text": "Interromper   e  .  Tankar o miniboss longe das orbs  Desviar dos circulos que ir\u00e3o aparecer por causa da",
+            "title": "Vermelho (90%)"
+        },
+        {
+            "location": "/guia/antorus/kasael/#verde-60",
+            "text": "Mesmo grupo do Vermelho + um healer, se necess\u00e1rio.   Interromper   : Manter a vida do grupo  m\u00e9dia , pois quanto mais vida, maior o dano recebido.  Prioridade  tirar o player marcado pela   Healers precisam manter a vida do player em torno de 2.4m e 3m    O posicionamento \u00e9 junto ao minibosss  Healers com a  Hasabel  devem utilizar CD, pois o dano ser\u00e1 maior por conta do  .",
+            "title": "Verde (60%)"
+        },
+        {
+            "location": "/guia/antorus/kasael/#roxo-30",
+            "text": "Mesmo grupo do  Verde    Precisa que a  Orb do portal VERMELHO  seja levada para o portal  ROXO   Para isso, um player precisa entrar no portal  VERMELHO , ir at\u00e9 uma orb e levar a orb em  10 segundos  para o portal  ROXO .  DEVE ESPERAR O TEMPO DO DEBUFF  ACABAR !     : Healers d\u00e3o dispell apenas quando n\u00e3o precisar de mana.    ir\u00e3o aparecer na Hasael e precisar\u00e3o matar junto com os imps (continua com a rota\u00e7\u00e3o de stun em area).",
+            "title": "Roxo (30%)"
         },
         {
             "location": "/guia/antorus/imonar/",
